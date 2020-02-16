@@ -1,0 +1,19 @@
+﻿body {
+}
+div{
+    padding:2px;
+}
+.SetDataEmployee, .GetEmployees {
+    border: 2px solid black; 
+    width: 48%;
+    display:inline-block; 
+    margin: 2px; 
+    vertical-align: top;
+}
+
+.titleBlocs
+{
+    margin-bottom:10px;
+    text-align:center;
+    vertical-align:central;
+}
